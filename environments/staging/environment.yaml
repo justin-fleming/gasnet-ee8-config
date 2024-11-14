@@ -40,7 +40,7 @@ app:
   variables:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
-  version: "5daedcfb-1009-4ec4-bd80-f47ed5a68006"
+  version: "e58d31ef-41f1-475e-89cd-b4efa792086d"
   # Set the Java runtime version since sometimes (usually) the pom.xml compiler settings are 1.8
   java: 17
   endpoints: public
